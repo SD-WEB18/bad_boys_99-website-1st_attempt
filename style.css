@@ -1,0 +1,85 @@
+/*----------------selectors--------------*/
+body{
+  position: relative;
+  margin: 0;
+}
+header{
+  position: relative;
+  text-decoration-color: white;
+/*--  background-image: url(https://wallup.net/wp-content/uploads/2018/09/26/192898-light-abstract-multicolor-vectors-illuminated-graphics.jpg);
+  ----*/ background-color: #cdfffc;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Goldman', cursive;
+}
+
+h1{
+  text-align: center;
+  position: relative;
+}
+
+h2{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul{
+  list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+li{
+  display: inline;
+  text-decoration-color: whitesmoke;
+}
+
+li :hover{
+  color: #000;
+}
+
+footer{
+  text-align: center;
+  background-color: #cdfffc;
+ 
+}
+
+hr{
+  border-style: dotted;
+  radius: 100px;
+  color: beige;
+
+}
+/*----------------Class selectors-----------*/
+.nav-bar{
+  background-color: #dddddd;
+  padding: 25px;
+
+}
+
+.vdos{
+   margin-left: 20px;
+   position: relative;
+   
+}
+
+.para-content{
+  font-family:  'gothic',Arial, sans-serif;
+  text-align: center;
+}
+
+._2main-section{
+  padding: 50px;
+  margin-left: 50px;
+  margin-right: 0px;
+  margin-top: 0px;
+   
+}
+
+ol.base-footer{
+  text-decoration-color: thistle;
+  font-family:  'Arial Narrow', Arial, sans-serif;
+}
+
+#about{
+  color: #93fdf6;
+}
